@@ -42,7 +42,7 @@ def sum_array(array)
   sum
 end
 
-
+end
 
 def add_s(array)
   array.collect do |word|
